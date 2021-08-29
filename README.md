@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Chat bot
+
+This project provides a solution for the task described in https://github.com/mzronek/task
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
